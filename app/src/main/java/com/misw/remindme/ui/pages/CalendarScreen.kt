@@ -34,6 +34,7 @@ import com.kizitonwose.calendar.core.previousMonth
 import com.misw.remindme.R
 import com.misw.remindme.ui.composables.RemindMeBottomBar
 import com.misw.remindme.ui.composables.RemindMeTopBar
+import com.misw.remindme.ui.navigation.Screen
 import com.misw.remindme.utils.AlarmParser
 import com.misw.remindme.utils.MonthHeader
 import com.misw.remindme.utils.SimpleCalendarTitle
@@ -115,10 +116,10 @@ fun CalendarScreen(navController: NavController) {
                         .background(color = Color.White)
                 ) {
                     items(alarmsList) { alarm ->
-                        /*AlarmListItem(alarm = alarm,
+                        AlarmListItem(alarm = alarm,
                             onItemClick = {
                                 navController.navigate(Screen.EditAlarm.route)
-                            })*/
+                            })
                         HorizontalDivider()
                     }
                 }

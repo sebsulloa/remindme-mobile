@@ -22,19 +22,19 @@ fun RemindMeNavHost(navController: NavHostController) {
             LoginScreen(navController)
         }
         composable(route = Screen.Alarms.route) {
-            //AlarmsScreen(navController)
+            AlarmsScreen(navController)
         }
         composable(route = Screen.User.route) {
             UserConfigScreen(navController)
         }
         composable(route = Screen.CreateAlarm.route) {
-            //CreateAlarmScreen(navController = navController)
+            CreateAlarmScreen(navController = navController)
         }
         composable(route= Screen.CreateAlarmVoice.route){
             VoiceAlarmScreen(navController = navController)
         }
         composable(route = Screen.EditAlarm.route) {
-            //EditAlarmScreen(navController = navController)
+            EditAlarmScreen(navController = navController)
         }
         composable(route= Screen.Calendar.route){
             CalendarScreen(navController = navController)
