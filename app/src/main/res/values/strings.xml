@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_alarm_list_screen">AlarmListScreen</string>
+    <string name="title_activity_calendar_screen">CalendarScreen</string>
+    <string name="title_activity_configuration_screen">ConfigurationScreen</string>
+    <string name="login">Login</string>
+    <string name="alarms">Alarmas</string>
+    <string name="calendar">Calendario</string>
+    <string name="user">Configuración</string>
+    <string name="edit_alarm">Detalle Alarma</string>
+    <string name="create_alarm">Crear Alarma</string>
+    <string name="create_alarm_voice">Crear Alarma Voz</string>
+    <string name="login_with_google">Ingresa con Google</string>
+    <string name="login_with_apple_id">Ingresa con Apple ID</string>
+</resources>

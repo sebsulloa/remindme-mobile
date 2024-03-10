@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Recoger a los niños",
+    "time": "9:00 AM",
+    "location": "Casa",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Tomar mi medicina",
+    "time": "10:30 AM",
+    "location": "Farmacia",
+    "category": "Personal"
+  },
+  {
+    "name": "Pasear al perro",
+    "time": "11:35 PM",
+    "location": "Parque",
+    "category": "Recreacion"
+  },
+  {
+    "name": "Contactar abogado",
+    "time": "1:00 PM",
+    "location": "Oficina",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Ir al gimnasio",
+    "time": "3:15 PM",
+    "location": "Gimnasio local",
+    "category": "Recreacion"
+  },
+  {
+    "name": "Comprar comestibles",
+    "time": "5:30 PM",
+    "location": "Supermercado",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Llamar a mamá",
+    "time": "8:45 AM",
+    "location": "Casa",
+    "category": "Personal"
+  },
+  {
+    "name": "Reunión con cliente",
+    "time": "11:45 AM",
+    "location": "Restaurante",
+    "category": "Personal"
+  },
+  {
+    "name": "Preparar presentación",
+    "time": "2:30 PM",
+    "location": "Oficina",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Entrevista de trabajo",
+    "time": "4:45 PM",
+    "location": "Edificio de la empresa",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Cita con el médico",
+    "time": "6:15 PM",
+    "location": "Clínica",
+    "category": "Personal"
+  },
+  {
+    "name": "Enviar informe",
+    "time": "9:30 AM",
+    "location": "Oficina",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Comida con amigos",
+    "time": "12:45 PM",
+    "location": "Restaurante",
+    "category": "Recreacion"
+  },
+  {
+    "name": "Junta de equipo",
+    "time": "3:00 PM",
+    "location": "Oficina",
+    "category": "Trabajo"
+  },
+  {
+    "name": "Completar proyecto",
+    "time": "5:30 PM",
+    "location": "Oficina",
+    "category": "Trabajo"
+  }
+]
